@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">CHARGE 3D</string>
-    <string name="notif_channel_watch">Charger watcher</string>
-    <string name="notif_channel_popup">Charging screen</string>
-    <string name="notif_watch_title">CHARGE 3D is ready</string>
-    <string name="notif_watch_text">Waiting for a charger to be plugged in</string>
-    <string name="notif_popup_title">Charging</string>
-</resources>
